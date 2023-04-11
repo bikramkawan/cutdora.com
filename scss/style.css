@@ -372,6 +372,10 @@ h1, h2, h3, h4, h5,
   opacity: 1; /* Firefox */
 }
 
+.text-primary {
+  color: #48466d !important;
+}
+
 /* Navbar */
 .site-navbar {
   background-color: #48466d !important;
