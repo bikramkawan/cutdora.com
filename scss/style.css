@@ -376,6 +376,17 @@ h1, h2, h3, h4, h5,
   color: #48466d !important;
 }
 
+.project-thumb {
+  height: 270px;
+}
+.project-thumb a {
+  height: 100%;
+}
+.project-thumb a img {
+  height: 100%;
+  object-fit: cover;
+}
+
 /* Navbar */
 .site-navbar {
   background-color: #48466d !important;
